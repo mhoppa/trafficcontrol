@@ -2180,7 +2180,7 @@
             "servercheck_short_name": "ORT",
             "host_name": "atlanta-edge-01",
             "value": 13
-        },
+        }
     ],
     "invalidationJobs": [
         {
